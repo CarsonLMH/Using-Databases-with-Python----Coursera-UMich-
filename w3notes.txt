@@ -1,0 +1,22 @@
+
+Rows represent the entries of a data table
+Columns represents the attributes of the entries in a data table
+
+The title row is a metadata of the data table (aka Schema)
+    > As in, it describes the data stored in the table
+
+Attributes can be:
+    1. A characteristic of the entry, and also
+    2. A table of attributes
+        (ex. the 'Album' of a track is itself a table that consists
+        of all the other Album titles.)
+
+Primary key:
+Logical key:
+Foreign key:
+
+SQLite Commands:
+
+C: Create; R: Read; U: Update; D: Delete
+
+To create a table:
